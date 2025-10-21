@@ -8,9 +8,9 @@ This roadmap outlines the essential knowledge areas, technical skills, tools, an
 
 Download:
 
-* PNG: <https://github.com/Yousha/DFIR-Specialist-Roadmap/releases/latest/download/DFIR Specialist Roadmap.png>
-* PDF: <https://github.com/Yousha/DFIR-Specialist-Roadmap/releases/latest/download/DFIR Specialist Roadmap-MindMap.png>
-* PDF: <https://github.com/Yousha/DFIR-Specialist-Roadmap/releases/latest/download/DFIR Specialist Roadmap-LogicChart.png>
+* PNG: <https://github.com/Yousha/DFIR-Specialist-Roadmap/releases/latest/download/DFIR.Specialist.Roadmap.png>
+* MindMap: <https://github.com/Yousha/DFIR-Specialist-Roadmap/releases/latest/download/DFIR.Specialist.Roadmap.-.MindMap.png>
+* LogicChart: <https://github.com/Yousha/DFIR-Specialist-Roadmap/releases/latest/download/DFIR.Specialist.Roadmap-LogicChart.png>
 
 Preview:
 
