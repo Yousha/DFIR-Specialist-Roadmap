@@ -16,6 +16,13 @@ Preview:
 
 ![DFIR Specialist Roadmap](./Artifacts/DFIR%20Specialist%20Roadmap.png)
 
+Preview - MindMap:
+
+![DFIR Specialist Roadmap](./Artifacts/DFIR%20Specialist%20Roadmap%20-%20MindMap.png)
+
+Preview - LogicChart:
+
+![DFIR Specialist Roadmap](./Artifacts/DFIR%20Specialist%20Roadmap-LogicChart.png)
 ## 🚀 How to Use This Roadmap
 
 1. **Start at the Top**: Begin with foundational topics like Hardware, OS, and Networking.
