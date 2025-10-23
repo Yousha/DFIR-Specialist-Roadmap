@@ -36,7 +36,7 @@ Preview - LogicChart:
 ## 🙏 Credits
 
 * Data: **Yousha Aleayoub**
-* Design: **Zahra Nasrollahi**
+* Design: **Zahra Nasrollahi** (for Adobe AI design)
 
 ## 📜 License
 
